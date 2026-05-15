@@ -1,5 +1,3 @@
-# Guía Técnica: Arquitectura y Seguridad de APIs con Node.js
-
 Este proyecto es un entorno de aprendizaje enfocado en el diseño de APIs seguras utilizando Node.js, Express y JWT. El frontend (Ionic/React) se proporciona como una herramienta funcional para validar y probar la implementación del servidor.
 
 ---
