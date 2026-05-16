@@ -44,6 +44,5 @@ lerna-debug.log*
 .sourcemaps/
 
 # Solution
-solucion/
 ARCHITECTURE.md
 GUIDE.md
